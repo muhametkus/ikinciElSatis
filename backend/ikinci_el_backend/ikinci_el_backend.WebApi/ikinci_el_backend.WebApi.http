@@ -1,0 +1,6 @@
+@ikinci_el_backend.WebApi_HostAddress = http://localhost:5055
+
+GET {{ikinci_el_backend.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

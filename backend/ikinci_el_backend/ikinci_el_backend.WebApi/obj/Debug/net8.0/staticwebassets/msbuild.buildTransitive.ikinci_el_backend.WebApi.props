@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ikinci_el_backend.WebApi.props" />
+</Project>
